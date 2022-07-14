@@ -1,4 +1,4 @@
-#Snake-AI
+# Snake-AI
 
 A feedforward neural network is used with three hidden layers.The NN employs  𝑅𝑒𝐿𝑢  activation function for its layers. The input layer consists of 11 nodes from the state of the snake, the output layer consists the three action nodes that the snake takes,i.e. the direction it can move in.
 
