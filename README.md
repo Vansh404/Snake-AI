@@ -9,7 +9,7 @@ The  𝑟𝑒𝑤𝑎𝑟𝑑𝑠  are the basis for evaluating the choices
 Deep Q Algorithm-
 
 1) Initialise Q value /n
-2) Choose action to be performed, in a analagous way to exploit-explore
+2) Choose action to be performed, the action selection policy is e-greedy
 3) Perform action(𝐴𝑛) for the time step 𝑛 and measure the award (𝑅𝑛) associated with that action
 4) Update the Q value for the action 𝐴𝑛
 
